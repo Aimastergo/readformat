@@ -1,7 +1,6 @@
 #### readformat
 
 #### youtube
-[![Video Label](http://img.youtube.com/vi/NpJd5VtOQ-k/0.jpg)](https://www.youtube.com/watch?v=NpJd5VtOQ-k)
 [![Video Label](http://img.youtube.com/vi/iJJL30N7cS4/0.jpg)](https://www.youtube.com/watch?v=iJJL30N7cS4)
 
 #### image
